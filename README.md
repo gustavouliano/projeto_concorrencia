@@ -4,6 +4,8 @@ A client-server application developed in Java to process multiple Excel files co
 
 > **Academic Project** — Concurrent Programming.
 
+Medium: https://medium.com/@jenifergoedert10/processamento-concorrencial-de-arquivos-excel-e-análise-de-dados-de-filiais-via-socket-8b6dda42b71d
+
 ---
 
 ## 🚀 Features
